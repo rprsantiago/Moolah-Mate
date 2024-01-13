@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "to6ENh2jwe7UDXlU3rdGwuuMOmXoAe954+iUeWOTY5u5rnLtXoZ6TMJFj2c+Ax/VXSMvNUP0NMk48/LRbUYDNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ronnel\\Desktop\\Sandbox\\Moolah-Mate\\Moolah-Mate-API\\Moolah-Mate-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronnel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Ronnel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ronnel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ronnel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ronnel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ronnel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

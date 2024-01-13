@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Moolah-Mate-API.props" />
+</Project>
