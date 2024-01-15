@@ -18,6 +18,8 @@ import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatTooltipModule} from '@angular/material/tooltip';
 import {MatSelectModule} from '@angular/material/select';
 
+import { AccountsComponent } from 'app/accounts/accounts.component';
+
 @NgModule({
   imports: [
     CommonModule,
@@ -40,6 +42,7 @@ import {MatSelectModule} from '@angular/material/select';
     MapsComponent,
     NotificationsComponent,
     UpgradeComponent,
+    AccountsComponent
   ]
 })
 
