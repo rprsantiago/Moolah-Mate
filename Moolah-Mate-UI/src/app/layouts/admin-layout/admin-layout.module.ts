@@ -19,6 +19,7 @@ import {MatTooltipModule} from '@angular/material/tooltip';
 import {MatSelectModule} from '@angular/material/select';
 
 import { AccountsComponent } from 'app/accounts/accounts.component';
+import { FinancialRecordsComponent } from 'app/financial-records/financial-records.component';
 
 @NgModule({
   imports: [
@@ -42,7 +43,8 @@ import { AccountsComponent } from 'app/accounts/accounts.component';
     MapsComponent,
     NotificationsComponent,
     UpgradeComponent,
-    AccountsComponent
+    AccountsComponent,
+    FinancialRecordsComponent
   ]
 })
 
