@@ -303,7 +303,7 @@
         }
     }
 
-    &[data-color="purple"]{
+    &[data-color="indigo"]{
         @include set-background-color-button($brand-primary);
     }
     &[data-color="azure"]{
